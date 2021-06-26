@@ -8,10 +8,24 @@
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 
+## Statistics
+<details>
+  <summary>Github Stats</summary>
+  
 ![azhuge233's GitHub stats](https://github-readme-stats.vercel.app/api?username=azhuge233&theme=highcontrast&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhuge233&layout=compact&langs_count=8&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azhuge233&theme=neon-dark&border=FFFFFF)](https://git.io/streak-stats)
+</details>
 
+<details>
+  <summary>Github Streaks</summary>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azhuge233&theme=neon-dark&border=FFFFFF)](https://git.io/streak-stats)
+  
+</details>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
