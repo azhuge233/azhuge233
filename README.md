@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&color=F785EB&size=20&center=true&vCenter=true&multiline=true&height=80&lines=Why+starts+making+this+fake+typing+thing.;It+definitly+makes+reading+harder.;Just+show+the+sentence+in+one+go.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&color=F785EB&size=20&center=true&vCenter=true&multiline=true&height=90&lines=Why+starts+making+this+fake+typing+thing.;It+definitly+makes+reading+harder.;Just+show+the+sentence+in+one+go.">
 </p>
 
 ## GitHub Statistics
