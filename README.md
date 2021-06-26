@@ -29,6 +29,8 @@
 - [关于 PXE (预启动执行环境)](https://azhuge233.com/%e5%85%b3%e4%ba%8e-pxe-%e9%a2%84%e5%90%af%e5%8a%a8%e6%89%a7%e8%a1%8c%e7%8e%af%e5%a2%83/)
 - [Wallpaper Engine 网页壁纸添加用户自定义属性](https://azhuge233.com/wallpaper-engine-%e7%bd%91%e9%a1%b5%e5%a3%81%e7%ba%b8%e6%b7%bb%e5%8a%a0%e7%94%a8%e6%88%b7%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7/)
 - [Youtube-dl-REST – youtube-dl 的 WebUI](https://azhuge233.com/youtube-dl-rest-youtube-dl-%e7%9a%84-webui/)
+- [.NET Playwright 升级 1.21.x 稳定版后一些问题的解决](https://azhuge233.com/net-playwright-%e5%8d%87%e7%ba%a7-1-21-x-%e7%a8%b3%e5%ae%9a%e7%89%88%e5%90%8e%e4%b8%80%e4%ba%9b%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3/)
+- [N1 安装 CoreELEC 19.1 到 eMMC](https://azhuge233.com/n1-%e5%ae%89%e8%a3%85-coreelec-19-1-%e5%88%b0-emmc/)
 <!-- BLOG-POST-LIST:END -->
 
 
