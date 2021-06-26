@@ -26,6 +26,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [关于 PXE (预启动执行环境)](https://azhuge233.com/%e5%85%b3%e4%ba%8e-pxe-%e9%a2%84%e5%90%af%e5%8a%a8%e6%89%a7%e8%a1%8c%e7%8e%af%e5%a2%83/)
+- [Wallpaper Engine 网页壁纸添加用户自定义属性](https://azhuge233.com/wallpaper-engine-%e7%bd%91%e9%a1%b5%e5%a3%81%e7%ba%b8%e6%b7%bb%e5%8a%a0%e7%94%a8%e6%88%b7%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7/)
+- [Youtube-dl-REST – youtube-dl 的 WebUI](https://azhuge233.com/youtube-dl-rest-youtube-dl-%e7%9a%84-webui/)
 <!-- BLOG-POST-LIST:END -->
 
 
