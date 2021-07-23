@@ -27,6 +27,13 @@
     </p>
 </details>
 
+<details>
+  <summary>GitHub Activity Graph</summary>
+    <p align="center">
+      <img src="http://activity-graph.herokuapp.com/graph?username=azhuge233&theme=nord">
+    </p>
+</details>
+
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [LeetCode 23 – 合并 K 个升序链表](https://azhuge233.com/leetcode-23-%e5%90%88%e5%b9%b6-k-%e4%b8%aa%e5%8d%87%e5%ba%8f%e9%93%be%e8%a1%a8/)
