@@ -34,7 +34,7 @@
     </p>
 </details>
 
-## Latest Blog posts ![](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)
+## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Tinode – 又一个即时聊天平台](https://azhuge233.com/tinode-%e5%8f%88%e4%b8%80%e4%b8%aa%e5%8d%b3%e6%97%b6%e8%81%8a%e5%a4%a9%e5%b9%b3%e5%8f%b0/)
