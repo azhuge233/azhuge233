@@ -75,10 +75,11 @@
 </details>
 
 <details>
-  <summary>Frameworks & Cloud & Database</summary>
+  <summary>Frameworks & Stuff</summary>
     <p align="left">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=PyPI&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
@@ -91,10 +92,13 @@
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=Proxmox&logoColor=white" />
+      <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
       <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=Vultr&logoColor=white" />
       <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=Alibaba%20Cloud&logoColor=black" />
+      <img src="https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=Huawei&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     </p>
 </details>
@@ -104,7 +108,7 @@
     <p align="left">
       <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
       <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-      <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" />
+      <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" />
     </p>
 </details>
 
@@ -115,6 +119,7 @@
       <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
       <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />
+      <img src="https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
       <img src="https://img.shields.io/badge/Adobe%20premiere%20pro-9999FF?style=for-the-badge&logo=Adobe%20premiere%20pro&logoColor=white" />
     </p>
 </details>
@@ -141,12 +146,14 @@
   <summary>Platform</summary>
     <p align="left">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+      <img src="https://img.shields.io/badge/PlayStation%203-003791?style=for-the-badge&logo=PlayStation%203&logoColor=white" />
+      <img src="https://img.shields.io/badge/PlayStation%204-003791?style=for-the-badge&logo=PlayStation%204&logoColor=white" />
+      <img src="https://img.shields.io/badge/PlayStation%205-003791?style=for-the-badge&logo=PlayStation%205&logoColor=white" />
       <img src="https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white" />
       <img src="https://img.shields.io/badge/GOG.com-86328A?style=for-the-badge&logo=GOG.com&logoColor=white" />
       <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
       <img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=Ubisoft&logoColor=white" />
-      <img src="https://img.shields.io/badge/EA-000000?style=for-the-badge&logo=EA&logoColor=white" />
+      <img src="https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=Origin&logoColor=white" />
     </p>
 </details>
 
