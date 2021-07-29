@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Paiza 命运石之门活动 题解](https://azhuge233.com/paiza-%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e6%b4%bb%e5%8a%a8-%e9%a2%98%e8%a7%a3/)
 - [Tinode – 又一个即时聊天平台](https://azhuge233.com/tinode-%e5%8f%88%e4%b8%80%e4%b8%aa%e5%8d%b3%e6%97%b6%e8%81%8a%e5%a4%a9%e5%b9%b3%e5%8f%b0/)
 - [Windows 11 React 搭建方式](https://azhuge233.com/windows-11-react-%e6%90%ad%e5%bb%ba%e6%96%b9%e5%bc%8f/)
 - [LeetCode 23 – 合并 K 个升序链表](https://azhuge233.com/leetcode-23-%e5%90%88%e5%b9%b6-k-%e4%b8%aa%e5%8d%87%e5%ba%8f%e9%93%be%e8%a1%a8/)
 - [mumble – 自托管语音/文字聊天室](https://azhuge233.com/mumble-%e8%87%aa%e6%89%98%e7%ae%a1%e8%af%ad%e9%9f%b3-%e6%96%87%e5%ad%97%e8%81%8a%e5%a4%a9%e5%ae%a4/)
-- [自托管 WebMail 的选择 – RainLoop 和 Cypht](https://azhuge233.com/%e8%87%aa%e6%89%98%e7%ae%a1-webmail-%e7%9a%84%e9%80%89%e6%8b%a9-rainloop-%e5%92%8c-cypht/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
