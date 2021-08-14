@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Server IIS 建立静态文件（下载）站点](https://azhuge233.com/windows-server-iis-%e5%bb%ba%e7%ab%8b%e9%9d%99%e6%80%81%e6%96%87%e4%bb%b6%ef%bc%88%e4%b8%8b%e8%bd%bd%ef%bc%89%e7%ab%99%e7%82%b9/)
 - [MSBuild 生成/发布后将文件复制到指定目录](https://azhuge233.com/msbuild-%e7%94%9f%e6%88%90-%e5%8f%91%e5%b8%83%e5%90%8e%e5%b0%86%e6%96%87%e4%bb%b6%e5%a4%8d%e5%88%b6%e5%88%b0%e6%8c%87%e5%ae%9a%e7%9b%ae%e5%bd%95/)
 - [Visual Studio, SMSS 连接 SQLite](https://azhuge233.com/visual-studio-smss-%e8%bf%9e%e6%8e%a5-sqlite/)
 - [Paiza 命运石之门活动 题解](https://azhuge233.com/paiza-%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e6%b4%bb%e5%8a%a8-%e9%a2%98%e8%a7%a3/)
 - [Tinode – 又一个即时聊天平台](https://azhuge233.com/tinode-%e5%8f%88%e4%b8%80%e4%b8%aa%e5%8d%b3%e6%97%b6%e8%81%8a%e5%a4%a9%e5%b9%b3%e5%8f%b0/)
-- [Windows 11 React 搭建方式](https://azhuge233.com/windows-11-react-%e6%90%ad%e5%bb%ba%e6%96%b9%e5%bc%8f/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
