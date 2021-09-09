@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [wor-flasher – 树莓派运行 Windows 10/11](https://azhuge233.com/wor-flasher-%e6%a0%91%e8%8e%93%e6%b4%be%e8%bf%90%e8%a1%8c-windows-10-11/)
 - [ESXi Arm Fling on Raspberry Pi 4](https://azhuge233.com/esxi-arm-fling-on-raspberry-pi-4/)
 - [ESP8266 Deauther 固件写入](https://azhuge233.com/esp8266-deauther-%e5%9b%ba%e4%bb%b6%e5%86%99%e5%85%a5/)
 - [Debian 11 搭建苹果 CMS](https://azhuge233.com/debian-11-%e6%90%ad%e5%bb%ba%e8%8b%b9%e6%9e%9c-cms/)
 - [C# (.NET) N 个通知推送平台的使用](https://azhuge233.com/c-net-n-%e4%b8%aa%e9%80%9a%e7%9f%a5%e6%8e%a8%e9%80%81%e5%b9%b3%e5%8f%b0%e7%9a%84%e4%bd%bf%e7%94%a8/)
-- [Windows Server IIS 建立静态文件（下载）站点](https://azhuge233.com/windows-server-iis-%e5%bb%ba%e7%ab%8b%e9%9d%99%e6%80%81%e6%96%87%e4%bb%b6%ef%bc%88%e4%b8%8b%e8%bd%bd%ef%bc%89%e7%ab%99%e7%82%b9/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
