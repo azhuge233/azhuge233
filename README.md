@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [自托管 Piwigo](https://azhuge233.com/%e8%87%aa%e6%89%98%e7%ae%a1-piwigo/)
 - [Calendso – 自托管日程计划工具](https://azhuge233.com/calendso-%e8%87%aa%e6%89%98%e7%ae%a1%e6%97%a5%e7%a8%8b%e8%ae%a1%e5%88%92%e5%b7%a5%e5%85%b7/)
 - [Proxmox VE on Raspberry Pi 4 with Pimox](https://azhuge233.com/proxmox-ve-on-raspberry-pi-4-with-pimox/)
 - [wor-flasher – 树莓派运行 Windows 10/11](https://azhuge233.com/wor-flasher-%e6%a0%91%e8%8e%93%e6%b4%be%e8%bf%90%e8%a1%8c-windows-10-11/)
 - [ESXi Arm Fling on Raspberry Pi 4](https://azhuge233.com/esxi-arm-fling-on-raspberry-pi-4/)
-- [ESP8266 Deauther 固件写入](https://azhuge233.com/esp8266-deauther-%e5%9b%ba%e4%bb%b6%e5%86%99%e5%85%a5/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
