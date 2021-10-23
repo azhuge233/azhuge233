@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dim – 自托管媒体管理器](https://azhuge233.com/dim-%e8%87%aa%e6%89%98%e7%ae%a1%e5%aa%92%e4%bd%93%e7%ae%a1%e7%90%86%e5%99%a8/)
 - [Orchard Core – ASP.NET CMS](https://azhuge233.com/orchard-core-asp-net-cms/)
 - [Windows 11 正式版 Subsystem for Android 的安装和使用](https://azhuge233.com/windows-11-stable-subsystem-for-android/)
 - [解决 ArchiSteamFarm IPC 页面空白问题](https://azhuge233.com/%e8%a7%a3%e5%86%b3-archisteamfarm-ipc-%e9%a1%b5%e9%9d%a2%e7%a9%ba%e7%99%bd%e9%97%ae%e9%a2%98/)
 - [Euterpe – 自托管音乐串流服务](https://azhuge233.com/euterpe-%e8%87%aa%e6%89%98%e7%ae%a1%e9%9f%b3%e4%b9%90%e4%b8%b2%e6%b5%81%e6%9c%8d%e5%8a%a1/)
-- [解决升级 Windows 11 后 VMware vPMC 错误](https://azhuge233.com/%e8%a7%a3%e5%86%b3%e5%8d%87%e7%ba%a7-windows-11-%e5%90%8e-vmware-vpmc-%e9%94%99%e8%af%af/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
