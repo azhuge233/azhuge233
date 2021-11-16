@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [网线水晶头接法](https://azhuge233.com/%e7%bd%91%e7%ba%bf%e6%b0%b4%e6%99%b6%e5%a4%b4%e6%8e%a5%e6%b3%95/)
 - [C# Code Snippets](https://azhuge233.com/c-code-snippets/)
 - [Dim – 自托管媒体管理器](https://azhuge233.com/dim-%e8%87%aa%e6%89%98%e7%ae%a1%e5%aa%92%e4%bd%93%e7%ae%a1%e7%90%86%e5%99%a8/)
 - [Orchard Core – ASP.NET CMS](https://azhuge233.com/orchard-core-asp-net-cms/)
 - [Windows 11 正式版 Subsystem for Android 的安装和使用](https://azhuge233.com/windows-11-stable-subsystem-for-android/)
-- [解决 ArchiSteamFarm IPC 页面空白问题](https://azhuge233.com/%e8%a7%a3%e5%86%b3-archisteamfarm-ipc-%e9%a1%b5%e9%9d%a2%e7%a9%ba%e7%99%bd%e9%97%ae%e9%a2%98/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
