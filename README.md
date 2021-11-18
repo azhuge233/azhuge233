@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Focalboard – 自托管项目管理工具](https://azhuge233.com/focalboard-%e8%87%aa%e6%89%98%e7%ae%a1%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%b7%a5%e5%85%b7/)
 - [无服务器自建 CyberChef](https://azhuge233.com/%e6%97%a0%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%87%aa%e5%bb%ba-cyberchef/)
 - [Proxmox VE 7 虚拟化 macOS Monterey](https://azhuge233.com/proxmox-ve-7-%e8%99%9a%e6%8b%9f%e5%8c%96-macos-monterey/)
 - [关于网线颜色顺序的一个疑问](https://azhuge233.com/%e5%85%b3%e4%ba%8e%e7%bd%91%e7%ba%bf%e9%a2%9c%e8%89%b2%e9%a1%ba%e5%ba%8f%e7%9a%84%e4%b8%80%e4%b8%aa%e7%96%91%e9%97%ae/)
 - [网线水晶头接法](https://azhuge233.com/%e7%bd%91%e7%ba%bf%e6%b0%b4%e6%99%b6%e5%a4%b4%e6%8e%a5%e6%b3%95/)
-- [C# Code Snippets](https://azhuge233.com/c-code-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
