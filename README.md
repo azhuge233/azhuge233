@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [解决 .NET CA2253 提示](https://azhuge233.com/%e8%a7%a3%e5%86%b3-net-ca2253-%e6%8f%90%e7%a4%ba/)
 - [Wiki.js – 自托管百科/文档管理系统](https://azhuge233.com/wiki-js-%e8%87%aa%e6%89%98%e7%ae%a1%e7%99%be%e7%a7%91-%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f/)
 - [excalidraw – 自托管网页白板工具](https://azhuge233.com/excalidraw-%e8%87%aa%e6%89%98%e7%ae%a1%e7%bd%91%e9%a1%b5%e7%99%bd%e6%9d%bf%e5%b7%a5%e5%85%b7/)
 - [Focalboard – 自托管项目管理工具](https://azhuge233.com/focalboard-%e8%87%aa%e6%89%98%e7%ae%a1%e9%a1%b9%e7%9b%ae%e7%ae%a1%e7%90%86%e5%b7%a5%e5%85%b7/)
 - [无服务器自建 CyberChef](https://azhuge233.com/%e6%97%a0%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%87%aa%e5%bb%ba-cyberchef/)
-- [Proxmox VE 7 虚拟化 macOS Monterey](https://azhuge233.com/proxmox-ve-7-%e8%99%9a%e6%8b%9f%e5%8c%96-macos-monterey/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
