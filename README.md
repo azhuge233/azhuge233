@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox VE 新建 oVirt node 虚拟机](https://azhuge233.com/proxmox-ve-%e6%96%b0%e5%bb%ba-ovirt-node-%e8%99%9a%e6%8b%9f%e6%9c%ba/)
 - [安装 VyOS 虚拟机并配置 DHCP 和系统 DNS](https://azhuge233.com/%e5%ae%89%e8%a3%85-vyos-%e8%99%9a%e6%8b%9f%e6%9c%ba%e5%b9%b6%e9%85%8d%e7%bd%ae-dhcp-%e5%92%8c%e7%b3%bb%e7%bb%9f-dns/)
 - [Kavita – 自托管漫画/电子书阅读服务器](https://azhuge233.com/kavita-%e8%87%aa%e6%89%98%e7%ae%a1%e6%bc%ab%e7%94%bb-%e7%94%b5%e5%ad%90%e4%b9%a6%e9%98%85%e8%af%bb%e6%9c%8d%e5%8a%a1%e5%99%a8/)
 - [CasaOS – 自托管家庭云系统](https://azhuge233.com/casaos-%e8%87%aa%e6%89%98%e7%ae%a1%e5%ae%b6%e5%ba%ad%e4%ba%91%e7%b3%bb%e7%bb%9f/)
 - [解决 .NET CA2253 提示](https://azhuge233.com/%e8%a7%a3%e5%86%b3-net-ca2253-%e6%8f%90%e7%a4%ba/)
-- [Wiki.js – 自托管百科/文档管理系统](https://azhuge233.com/wiki-js-%e8%87%aa%e6%89%98%e7%ae%a1%e7%99%be%e7%a7%91-%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
