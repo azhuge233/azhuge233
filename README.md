@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [反转 Windows 触摸板滚动方向](https://azhuge233.com/%e5%8f%8d%e8%bd%ac-windows-%e8%a7%a6%e6%91%b8%e6%9d%bf%e6%bb%9a%e5%8a%a8%e6%96%b9%e5%90%91/)
+- [Windows LTSC 中一些问题的解决方法](https://azhuge233.com/windows-ltsc-%e4%b8%ad%e4%b8%80%e4%ba%9b%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 - [迪兰 6700xt 战将拆解](https://azhuge233.com/%e8%bf%aa%e5%85%b0-6700xt-%e6%88%98%e5%b0%86%e6%8b%86%e8%a7%a3/)
 - [Proxmox VE Home Assistant 虚拟机](https://azhuge233.com/proxmox-ve-home-assistant-%e8%99%9a%e6%8b%9f%e6%9c%ba/)
 - [idena node 的安装与使用](https://azhuge233.com/idena-node-%e7%9a%84%e5%ae%89%e8%a3%85%e4%b8%8e%e4%bd%bf%e7%94%a8/)
-- [坏笔记本发挥余热 – 自制便携显示器](https://azhuge233.com/%e5%9d%8f%e7%ac%94%e8%ae%b0%e6%9c%ac%e5%8f%91%e6%8c%a5%e4%bd%99%e7%83%ad-%e8%87%aa%e5%88%b6%e4%be%bf%e6%90%ba%e6%98%be%e7%a4%ba%e5%99%a8/)
-- [Proxmox VE 新建 oVirt node 虚拟机](https://azhuge233.com/proxmox-ve-%e6%96%b0%e5%bb%ba-ovirt-node-%e8%99%9a%e6%8b%9f%e6%9c%ba/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
