@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [禁止 Playwright &lpar;Dotnet&rpar; 加载资源文件](https://azhuge233.com/%e7%a6%81%e6%ad%a2-playwright-dotnet-%e5%8a%a0%e8%bd%bd%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/)
 - [反转 Windows 触摸板滚动方向](https://azhuge233.com/%e5%8f%8d%e8%bd%ac-windows-%e8%a7%a6%e6%91%b8%e6%9d%bf%e6%bb%9a%e5%8a%a8%e6%96%b9%e5%90%91/)
 - [Windows LTSC 中一些问题的解决方法](https://azhuge233.com/windows-ltsc-%e4%b8%ad%e4%b8%80%e4%ba%9b%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 - [迪兰 6700xt 战将拆解](https://azhuge233.com/%e8%bf%aa%e5%85%b0-6700xt-%e6%88%98%e5%b0%86%e6%8b%86%e8%a7%a3/)
 - [Proxmox VE Home Assistant 虚拟机](https://azhuge233.com/proxmox-ve-home-assistant-%e8%99%9a%e6%8b%9f%e6%9c%ba/)
-- [idena node 的安装与使用](https://azhuge233.com/idena-node-%e7%9a%84%e5%ae%89%e8%a3%85%e4%b8%8e%e4%bd%bf%e7%94%a8/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
