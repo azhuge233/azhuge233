@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 年如何游玩魔兽争霸3&lpar;非重铸版&rpar;自定义战役](https://azhuge233.com/2022-%e5%b9%b4%e5%a6%82%e4%bd%95%e6%b8%b8%e7%8e%a9%e9%ad%94%e5%85%bd%e4%ba%89%e9%9c%b83%e9%9d%9e%e9%87%8d%e9%93%b8%e7%89%88%e8%87%aa%e5%ae%9a%e4%b9%89%e6%88%98%e5%bd%b9/)
 - [OneDev – 内置 CI/CD 的自托管 Git 服务器](https://azhuge233.com/onedev-%e5%86%85%e7%bd%ae-ci-cd-%e7%9a%84%e8%87%aa%e6%89%98%e7%ae%a1-git-%e6%9c%8d%e5%8a%a1%e5%99%a8/)
 - [开源电商平台 Medusa 的开发环境搭建](https://azhuge233.com/%e5%bc%80%e6%ba%90%e7%94%b5%e5%95%86%e5%b9%b3%e5%8f%b0-medusa-%e7%9a%84%e5%bc%80%e5%8f%91%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba/)
 - [如何使用 PS5 开关 Yeelight 智能灯泡](https://azhuge233.com/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8-ps5-%e5%bc%80%e5%85%b3-yeelight-%e6%99%ba%e8%83%bd%e7%81%af%e6%b3%a1/)
 - [Koodo Reader – 自托管电子书阅读器](https://azhuge233.com/koodo-reader-%e8%87%aa%e6%89%98%e7%ae%a1%e7%94%b5%e5%ad%90%e4%b9%a6%e9%98%85%e8%af%bb%e5%99%a8/)
-- [禁止 Playwright &lpar;Dotnet&rpar; 加载资源文件](https://azhuge233.com/%e7%a6%81%e6%ad%a2-playwright-dotnet-%e5%8a%a0%e8%bd%bd%e8%b5%84%e6%ba%90%e6%96%87%e4%bb%b6/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
