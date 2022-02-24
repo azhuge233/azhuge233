@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Wallabag – 自托管稍后阅读服务](https://azhuge233.com/wallabag-%e8%87%aa%e6%89%98%e7%ae%a1%e7%a8%8d%e5%90%8e%e9%98%85%e8%af%bb%e6%9c%8d%e5%8a%a1/)
 - [spring-boot-online-exam – 基于 springboot 的在线考试系统](https://azhuge233.com/spring-boot-online-exam-%e5%9f%ba%e4%ba%8e-springboot-%e7%9a%84%e5%9c%a8%e7%ba%bf%e8%80%83%e8%af%95%e7%b3%bb%e7%bb%9f/)
 - [N64Wasm – 浏览器 N64 模拟器](https://azhuge233.com/n64wasm-%e6%b5%8f%e8%a7%88%e5%99%a8-n64-%e6%a8%a1%e6%8b%9f%e5%99%a8/)
 - [2022 年如何游玩魔兽争霸3&lpar;非重铸版&rpar;自定义战役](https://azhuge233.com/2022-%e5%b9%b4%e5%a6%82%e4%bd%95%e6%b8%b8%e7%8e%a9%e9%ad%94%e5%85%bd%e4%ba%89%e9%9c%b83%e9%9d%9e%e9%87%8d%e9%93%b8%e7%89%88%e8%87%aa%e5%ae%9a%e4%b9%89%e6%88%98%e5%bd%b9/)
 - [OneDev – 内置 CI/CD 的自托管 Git 服务器](https://azhuge233.com/onedev-%e5%86%85%e7%bd%ae-ci-cd-%e7%9a%84%e8%87%aa%e6%89%98%e7%ae%a1-git-%e6%9c%8d%e5%8a%a1%e5%99%a8/)
-- [开源电商平台 Medusa 的开发环境搭建](https://azhuge233.com/%e5%bc%80%e6%ba%90%e7%94%b5%e5%95%86%e5%b9%b3%e5%8f%b0-medusa-%e7%9a%84%e5%bc%80%e5%8f%91%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
