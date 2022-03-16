@@ -37,7 +37,7 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Dotnet CoreCLR 0x8004005 的临时解决方法](https://azhuge233.com/dotnet-coreclr-0x8004005-%e7%9a%84%e4%b8%b4%e6%97%b6%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
+- [Dotnet CoreCLR 0x80004005 的临时解决方法](https://azhuge233.com/dotnet-coreclr-0x8004005-%e7%9a%84%e4%b8%b4%e6%97%b6%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 - [bp3 – 百度网盘的自托管 Web 客户端](https://azhuge233.com/bp3-%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e7%9a%84%e8%87%aa%e6%89%98%e7%ae%a1-web-%e5%ae%a2%e6%88%b7%e7%ab%af/)
 - [Wallabag – 自托管稍后阅读服务](https://azhuge233.com/wallabag-%e8%87%aa%e6%89%98%e7%ae%a1%e7%a8%8d%e5%90%8e%e9%98%85%e8%af%bb%e6%9c%8d%e5%8a%a1/)
 - [spring-boot-online-exam – 基于 springboot 的在线考试系统](https://azhuge233.com/spring-boot-online-exam-%e5%9f%ba%e4%ba%8e-springboot-%e7%9a%84%e5%9c%a8%e7%ba%bf%e8%80%83%e8%af%95%e7%b3%bb%e7%bb%9f/)
