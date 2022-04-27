@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Nginx + Cloudflare 阻挡赛博垃圾](https://azhuge233.com/%e4%bd%bf%e7%94%a8-nginx-cloudflare-%e9%98%bb%e6%8c%a1%e8%b5%9b%e5%8d%9a%e5%9e%83%e5%9c%be/)
 - [HFS – 自托管文件共享服务器](https://azhuge233.com/hfs-%e8%87%aa%e6%89%98%e7%ae%a1%e6%96%87%e4%bb%b6%e5%85%b1%e4%ba%ab%e6%9c%8d%e5%8a%a1%e5%99%a8/)
 - [Nginx 屏蔽特定 IP&lpar;段&rpar;/UA](https://azhuge233.com/nginx-%e5%b1%8f%e8%94%bd%e7%89%b9%e5%ae%9a-ip%e6%ae%b5-ua/)
 - [NUC8 Windows 10 LTSC 登陆界面花屏等显示问题的解决方法](https://azhuge233.com/nuc8-windows-10-ltsc-%e7%99%bb%e9%99%86%e7%95%8c%e9%9d%a2%e8%8a%b1%e5%b1%8f%e7%ad%89%e6%98%be%e7%a4%ba%e9%97%ae%e9%a2%98%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 - [PS4 9.00 GoldHEN 破解](https://azhuge233.com/ps4-9-00-goldhen-%e7%a0%b4%e8%a7%a3/)
-- [Edrys – 自托管远程教学平台](https://azhuge233.com/edrys-%e8%87%aa%e6%89%98%e7%ae%a1%e8%bf%9c%e7%a8%8b%e6%95%99%e5%ad%a6%e5%b9%b3%e5%8f%b0/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
