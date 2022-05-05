@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [AzuraCast – 自托管音乐广播/播客管理套件](https://azhuge233.com/azuracast-%e8%87%aa%e6%89%98%e7%ae%a1%e9%9f%b3%e4%b9%90%e5%b9%bf%e6%92%ad-%e6%92%ad%e5%ae%a2%e7%ae%a1%e7%90%86%e5%a5%97%e4%bb%b6/)
 - [HumHub – 自托管本地私人社交网络](https://azhuge233.com/humhub-%e8%87%aa%e6%89%98%e7%ae%a1%e6%9c%ac%e5%9c%b0%e7%a7%81%e4%ba%ba%e7%a4%be%e4%ba%a4%e7%bd%91%e7%bb%9c/)
 - [Tube Archivist – 自托管 YouTube 媒体本地缓存服务器](https://azhuge233.com/tube-archivist-%e8%87%aa%e6%89%98%e7%ae%a1-youtube-%e5%aa%92%e4%bd%93%e6%9c%ac%e5%9c%b0%e7%bc%93%e5%ad%98%e6%9c%8d%e5%8a%a1%e5%99%a8/)
 - [BookStack – 自托管文档管理/Wiki系统](https://azhuge233.com/bookstack-%e8%87%aa%e6%89%98%e7%ae%a1%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86-wiki%e7%b3%bb%e7%bb%9f/)
 - [lal – 自建 RTMP/RTSP 推流服务器](https://azhuge233.com/lal-%e8%87%aa%e5%bb%ba-rtmp-rtsp-%e6%8e%a8%e6%b5%81%e6%9c%8d%e5%8a%a1%e5%99%a8/)
-- [Steam 愿望单无法移除锁区游戏的解决方法](https://azhuge233.com/steam-%e6%84%bf%e6%9c%9b%e5%8d%95%e6%97%a0%e6%b3%95%e7%a7%bb%e9%99%a4%e9%94%81%e5%8c%ba%e6%b8%b8%e6%88%8f%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
