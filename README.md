@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [BookStack – 自托管文档管理/Wiki系统](https://azhuge233.com/bookstack-%e8%87%aa%e6%89%98%e7%ae%a1%e6%96%87%e6%a1%a3%e7%ae%a1%e7%90%86-wiki%e7%b3%bb%e7%bb%9f/)
 - [lal – 自建 RTMP/RTSP 推流服务器](https://azhuge233.com/lal-%e8%87%aa%e5%bb%ba-rtmp-rtsp-%e6%8e%a8%e6%b5%81%e6%9c%8d%e5%8a%a1%e5%99%a8/)
 - [Steam 愿望单无法移除锁区游戏的解决方法](https://azhuge233.com/steam-%e6%84%bf%e6%9c%9b%e5%8d%95%e6%97%a0%e6%b3%95%e7%a7%bb%e9%99%a4%e9%94%81%e5%8c%ba%e6%b8%b8%e6%88%8f%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 - [使用 Nginx + Cloudflare 阻挡赛博垃圾](https://azhuge233.com/%e4%bd%bf%e7%94%a8-nginx-cloudflare-%e9%98%bb%e6%8c%a1%e8%b5%9b%e5%8d%9a%e5%9e%83%e5%9c%be/)
 - [HFS – 自托管文件共享服务器](https://azhuge233.com/hfs-%e8%87%aa%e6%89%98%e7%ae%a1%e6%96%87%e4%bb%b6%e5%85%b1%e4%ba%ab%e6%9c%8d%e5%8a%a1%e5%99%a8/)
-- [Nginx 屏蔽特定 IP&lpar;段&rpar;/UA](https://azhuge233.com/nginx-%e5%b1%8f%e8%94%bd%e7%89%b9%e5%ae%9a-ip%e6%ae%b5-ua/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
