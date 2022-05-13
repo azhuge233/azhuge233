@@ -104,15 +104,6 @@
 </details>
 
 <details>
-  <summary>Web Browsers</summary>
-    <p align="left">
-      <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-      <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" />
-    </p>
-</details>
-
-<details>
   <summary>Office & Design</summary>
     <p align="left">
       <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
