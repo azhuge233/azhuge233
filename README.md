@@ -129,6 +129,8 @@
 </details>
 
 ## About Gaming
+![](https://steamcard.vercel.app/card/76561198175756063/badge,group)
+
 <p align="left">
   <a href="https://steamcommunity.com/id/azhuge233" target="_blank"> Steam Profile</a> | PSN ID: azhuge233
 </p>
