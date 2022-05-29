@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [changedetection.io – 自托管网页变动监测工具](https://azhuge233.com/changedetection-io-%e8%87%aa%e6%89%98%e7%ae%a1%e7%bd%91%e9%a1%b5%e5%8f%98%e5%8a%a8%e7%9b%91%e6%b5%8b%e5%b7%a5%e5%85%b7/)
 - [解决 ESP8266 Tasmota 无法连接 Wifi](https://azhuge233.com/%e8%a7%a3%e5%86%b3-esp8266-tasmota-%e6%97%a0%e6%b3%95%e8%bf%9e%e6%8e%a5-wifi/)
 - [macOS Monterey 修改启动菜单的标签文字](https://azhuge233.com/macos-monterey-%e4%bf%ae%e6%94%b9%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95%e7%9a%84%e6%a0%87%e7%ad%be%e6%96%87%e5%ad%97/)
 - [AzuraCast – 自托管音乐广播/播客管理套件](https://azhuge233.com/azuracast-%e8%87%aa%e6%89%98%e7%ae%a1%e9%9f%b3%e4%b9%90%e5%b9%bf%e6%92%ad-%e6%92%ad%e5%ae%a2%e7%ae%a1%e7%90%86%e5%a5%97%e4%bb%b6/)
 - [HumHub – 自托管本地私人社交网络](https://azhuge233.com/humhub-%e8%87%aa%e6%89%98%e7%ae%a1%e6%9c%ac%e5%9c%b0%e7%a7%81%e4%ba%ba%e7%a4%be%e4%ba%a4%e7%bd%91%e7%bb%9c/)
-- [Tube Archivist – 自托管 YouTube 媒体本地缓存服务器](https://azhuge233.com/tube-archivist-%e8%87%aa%e6%89%98%e7%ae%a1-youtube-%e5%aa%92%e4%bd%93%e6%9c%ac%e5%9c%b0%e7%bc%93%e5%ad%98%e6%9c%8d%e5%8a%a1%e5%99%a8/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
