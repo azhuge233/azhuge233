@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Pterodactyl Panel – 游戏服务器管理面板](https://azhuge233.com/pterodactyl-panel-%e6%b8%b8%e6%88%8f%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ae%a1%e7%90%86%e9%9d%a2%e6%9d%bf/)
 - [通过 HoloISO 在 PC 下体验 SteamOS](https://azhuge233.com/%e9%80%9a%e8%bf%87-holoiso-%e5%9c%a8-pc-%e4%b8%8b%e4%bd%93%e9%aa%8c-steamos/)
 - [Portainer 安装记录](https://azhuge233.com/portainer-%e5%ae%89%e8%a3%85%e8%ae%b0%e5%bd%95/)
 - [解决 Microsoft Edge 无法更新（0x80072EFD）问题](https://azhuge233.com/%e8%a7%a3%e5%86%b3-microsoft-edge-%e6%97%a0%e6%b3%95%e6%9b%b4%e6%96%b0%ef%bc%880x80072efd%ef%bc%89%e9%97%ae%e9%a2%98/)
 - [Proxmox VE macOS 更新 OpenCore](https://azhuge233.com/proxmox-ve-macos-%e6%9b%b4%e6%96%b0-opencore/)
-- [Umbrel – 针对自托管应用的操作系统](https://azhuge233.com/umbrel-%e9%92%88%e5%af%b9%e8%87%aa%e6%89%98%e7%ae%a1%e5%ba%94%e7%94%a8%e7%9a%84%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
