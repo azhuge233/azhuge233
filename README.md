@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [PS3 4.89 HEN 破解](https://azhuge233.com/ps3-4-89-hen-%e7%a0%b4%e8%a7%a3/)
 - [Pterodactyl Panel – 游戏服务器管理面板](https://azhuge233.com/pterodactyl-panel-%e6%b8%b8%e6%88%8f%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ae%a1%e7%90%86%e9%9d%a2%e6%9d%bf/)
 - [通过 HoloISO 在 PC 下体验 SteamOS](https://azhuge233.com/%e9%80%9a%e8%bf%87-holoiso-%e5%9c%a8-pc-%e4%b8%8b%e4%bd%93%e9%aa%8c-steamos/)
 - [Portainer 安装记录](https://azhuge233.com/portainer-%e5%ae%89%e8%a3%85%e8%ae%b0%e5%bd%95/)
 - [解决 Microsoft Edge 无法更新（0x80072EFD）问题](https://azhuge233.com/%e8%a7%a3%e5%86%b3-microsoft-edge-%e6%97%a0%e6%b3%95%e6%9b%b4%e6%96%b0%ef%bc%880x80072efd%ef%bc%89%e9%97%ae%e9%a2%98/)
-- [Proxmox VE macOS 更新 OpenCore](https://azhuge233.com/proxmox-ve-macos-%e6%9b%b4%e6%96%b0-opencore/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
