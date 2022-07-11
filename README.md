@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 使用 DualShock 3 手柄](https://azhuge233.com/windows-10-%e4%bd%bf%e7%94%a8-dualshock-3-%e6%89%8b%e6%9f%84/)
 - [PS3 破解相关概念](https://azhuge233.com/ps3-%e7%a0%b4%e8%a7%a3%e7%9b%b8%e5%85%b3%e6%a6%82%e5%bf%b5/)
 - [关于 PS3 的一些疑问（及解答）](https://azhuge233.com/%e5%85%b3%e4%ba%8e-ps3-%e7%9a%84%e4%b8%80%e4%ba%9b%e7%96%91%e9%97%ae%ef%bc%88%e5%8f%8a%e8%a7%a3%e7%ad%94%ef%bc%89/)
 - [PS3 4.89 HEN 破解](https://azhuge233.com/ps3-4-89-hen-%e7%a0%b4%e8%a7%a3/)
 - [Pterodactyl Panel – 游戏服务器管理面板](https://azhuge233.com/pterodactyl-panel-%e6%b8%b8%e6%88%8f%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ae%a1%e7%90%86%e9%9d%a2%e6%9d%bf/)
-- [通过 HoloISO 在 PC 下体验 SteamOS](https://azhuge233.com/%e9%80%9a%e8%bf%87-holoiso-%e5%9c%a8-pc-%e4%b8%8b%e4%bd%93%e9%aa%8c-steamos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
