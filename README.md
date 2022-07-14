@@ -37,11 +37,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [zFile Debian 11 搭建记录](https://azhuge233.com/zfile-debian-11-%e6%90%ad%e5%bb%ba%e8%ae%b0%e5%bd%95/)
 - [Snipe-IT Debian 11 Nginx 自托管](https://azhuge233.com/snipe-it-debian-11-nginx-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [Windows 10 使用 DualShock 3 手柄](https://azhuge233.com/windows-10-%e4%bd%bf%e7%94%a8-dualshock-3-%e6%89%8b%e6%9f%84/)
 - [PS3 破解相关概念](https://azhuge233.com/ps3-%e7%a0%b4%e8%a7%a3%e7%9b%b8%e5%85%b3%e6%a6%82%e5%bf%b5/)
 - [关于 PS3 的一些疑问（及解答）](https://azhuge233.com/%e5%85%b3%e4%ba%8e-ps3-%e7%9a%84%e4%b8%80%e4%ba%9b%e7%96%91%e9%97%ae%ef%bc%88%e5%8f%8a%e8%a7%a3%e7%ad%94%ef%bc%89/)
-- [PS3 4.89 HEN 破解](https://azhuge233.com/ps3-4-89-hen-%e7%a0%b4%e8%a7%a3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
