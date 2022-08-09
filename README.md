@@ -115,19 +115,6 @@
     </p>
 </details>
 
-<details>
-  <summary>PC Specs</summary>
-    <p align="left">
-      <img src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Samsung_32G-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/Intel-Core_i7_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Corsair_64G-222222?style=for-the-badge&logo=Corsair&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white" />
-    </p>
-</details>
-
 ## About Gaming
 ![](https://steamcard.vercel.app/card/76561198175756063/badge,group)
 
@@ -150,15 +137,3 @@
     </p>
 </details>
 
-
-<details>
-  <summary>PC Specs</summary>
-    <p align="left">
-      <img src="https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA-RTX%203080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/Corsair_64G-222222?style=for-the-badge&logo=Corsair&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-      <img src="https://img.shields.io/badge/AMD-Radeon_RX_6700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    </p>
-</details>
