@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&color=CCCCCC&size=20&center=true&vCenter=true&multiline=true&height=90&lines=Why+starts+making+this+fake+typing+thing.;It+definitly+makes+reading+harder.;Just+show+the+sentence+in+one+go."> 
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=azhuge233&color=222222">
-</p>
-
 ## GitHub Statistics
 <details>
   <summary>GitHub Stats</summary>
@@ -137,3 +131,6 @@
     </p>
 </details>
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=azhuge233&color=222222">
+</p>
