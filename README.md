@@ -31,11 +31,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Memos Docker 搭建](https://azhuge233.com/memos-docker-%e6%90%ad%e5%bb%ba/)
 - [Immich Debian 11 docker 搭建](https://azhuge233.com/immich-debian-11-docker-%e6%90%ad%e5%bb%ba/)
 - [VideoTogether 服务端的私有部署](https://azhuge233.com/videotogether-%e6%9c%8d%e5%8a%a1%e7%ab%af%e7%9a%84%e7%a7%81%e6%9c%89%e9%83%a8%e7%bd%b2/)
 - [Chemex Debian 11 搭建](https://azhuge233.com/chemex-debian-11-%e6%90%ad%e5%bb%ba/)
 - [Oculus &lpar;Meta&rpar; Quest 2 从到货到游玩踩坑记录](https://azhuge233.com/oculus-meta-quest-2-%e4%bb%8e%e5%88%b0%e8%b4%a7%e5%88%b0%e6%b8%b8%e7%8e%a9%e8%b8%a9%e5%9d%91%e8%ae%b0%e5%bd%95/)
-- [zFile Debian 11 搭建记录](https://azhuge233.com/zfile-debian-11-%e6%90%ad%e5%bb%ba%e8%ae%b0%e5%bd%95/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
