@@ -31,11 +31,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [海盗船 H100i GTX AIO 水冷头构造](https://azhuge233.com/%e6%b5%b7%e7%9b%97%e8%88%b9-h100i-gtx-aio-%e6%b0%b4%e5%86%b7%e5%a4%b4%e6%9e%84%e9%80%a0/)
 - [Newtonsoft.Json 序列化键值自动小写](https://azhuge233.com/newtonsoft-json-%e5%ba%8f%e5%88%97%e5%8c%96%e9%94%ae%e5%80%bc%e8%87%aa%e5%8a%a8%e5%b0%8f%e5%86%99/)
 - [Memos Docker 搭建](https://azhuge233.com/memos-docker-%e6%90%ad%e5%bb%ba/)
 - [Immich Debian 11 docker 搭建](https://azhuge233.com/immich-debian-11-docker-%e6%90%ad%e5%bb%ba/)
 - [VideoTogether 服务端的私有部署](https://azhuge233.com/videotogether-%e6%9c%8d%e5%8a%a1%e7%ab%af%e7%9a%84%e7%a7%81%e6%9c%89%e9%83%a8%e7%bd%b2/)
-- [Chemex Debian 11 搭建](https://azhuge233.com/chemex-debian-11-%e6%90%ad%e5%bb%ba/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
