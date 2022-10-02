@@ -31,11 +31,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lychee 相片管理系统搭建](https://azhuge233.com/lychee-%e7%9b%b8%e7%89%87%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f%e6%90%ad%e5%bb%ba/)
 - [Cloudflare workerd 自托管](https://azhuge233.com/cloudflare-workerd-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [VHS&lpar;VCR&rpar; 录像带视频转录](https://azhuge233.com/vhsvcr-%e5%bd%95%e5%83%8f%e5%b8%a6%e8%a7%86%e9%a2%91%e8%bd%ac%e5%bd%95/)
 - [OpenWrt DNS 设置 – 解析所有子域名到相同 IP 地址](https://azhuge233.com/openwrt-dns-%e8%ae%be%e7%bd%ae-%e8%a7%a3%e6%9e%90%e6%89%80%e6%9c%89%e5%ad%90%e5%9f%9f%e5%90%8d%e5%88%b0%e7%9b%b8%e5%90%8c-ip-%e5%9c%b0%e5%9d%80/)
 - [海盗船 H100i GTX AIO 水冷头构造](https://azhuge233.com/%e6%b5%b7%e7%9b%97%e8%88%b9-h100i-gtx-aio-%e6%b0%b4%e5%86%b7%e5%a4%b4%e6%9e%84%e9%80%a0/)
-- [Newtonsoft.Json 序列化键值自动小写](https://azhuge233.com/newtonsoft-json-%e5%ba%8f%e5%88%97%e5%8c%96%e9%94%ae%e5%80%bc%e8%87%aa%e5%8a%a8%e5%b0%8f%e5%86%99/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
