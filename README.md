@@ -31,11 +31,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [自动删除 qBittorrent 下载完毕的任务](https://azhuge233.com/%e8%87%aa%e5%8a%a8%e5%88%a0%e9%99%a4-qbittorrent-%e4%b8%8b%e8%bd%bd%e5%ae%8c%e6%af%95%e7%9a%84%e4%bb%bb%e5%8a%a1/)
 - [SRS 简单搭建直播推流](https://azhuge233.com/srs-%e7%ae%80%e5%8d%95%e6%90%ad%e5%bb%ba%e7%9b%b4%e6%92%ad%e6%8e%a8%e6%b5%81/)
 - [Proxmox VE 虚拟化 macOS Monterey 升级 Ventura](https://azhuge233.com/proxmox-ve-%e8%99%9a%e6%8b%9f%e5%8c%96-macos-monterey-%e5%8d%87%e7%ba%a7-ventura/)
 - [Kasm 搭建](https://azhuge233.com/kasm-%e6%90%ad%e5%bb%ba/)
 - [Lychee 相片管理系统搭建](https://azhuge233.com/lychee-%e7%9b%b8%e7%89%87%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f%e6%90%ad%e5%bb%ba/)
-- [Cloudflare workerd 自托管](https://azhuge233.com/cloudflare-workerd-%e8%87%aa%e6%89%98%e7%ae%a1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Dev
