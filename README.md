@@ -21,12 +21,6 @@
     </p>
 </details>
 
-<details>
-  <summary>GitHub Activity Graph</summary>
-    <p align="center">
-      <img src="http://activity-graph.herokuapp.com/graph?username=azhuge233&theme=nord">
-    </p>
-</details>
 
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
