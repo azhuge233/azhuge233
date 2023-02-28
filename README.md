@@ -25,11 +25,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Enumerable.Repeat&lpar;&rpar; 的小坑](https://azhuge233.com/c-enumerable-repeat-%e7%9a%84%e5%b0%8f%e5%9d%91/)
 - [解决 Proxmox VE 因存储更改而引发的一些问题](https://azhuge233.com/%e8%a7%a3%e5%86%b3-proxmox-ve-%e5%9b%a0%e5%ad%98%e5%82%a8%e6%9b%b4%e6%94%b9%e8%80%8c%e5%bc%95%e5%8f%91%e7%9a%84%e4%b8%80%e4%ba%9b%e9%97%ae%e9%a2%98/)
 - [Typemill 自托管](https://azhuge233.com/typemill-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [WaaS &lpar;JoJo transcription&rpar; 的自托管和使用](https://azhuge233.com/waas-jojo-transcription-%e7%9a%84%e8%87%aa%e6%89%98%e7%ae%a1%e5%92%8c%e4%bd%bf%e7%94%a8/)
 - [MIUI 13 &lpar;Redmi Note 15 5G&rpar; Magisk Root](https://azhuge233.com/miui-13-redmi-note-15-5g-magisk-root/)
-- [密码保护：各游戏平台的免费游戏信息获取渠道](https://azhuge233.com/%e5%90%84%e6%b8%b8%e6%88%8f%e5%b9%b3%e5%8f%b0%e7%9a%84%e5%85%8d%e8%b4%b9%e6%b8%b8%e6%88%8f%e4%bf%a1%e6%81%af%e8%8e%b7%e5%8f%96%e6%b8%a0%e9%81%93/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
