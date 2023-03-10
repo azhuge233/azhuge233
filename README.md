@@ -25,11 +25,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Text generation Web UI 自托管](https://azhuge233.com/text-generation-web-ui-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [tldream 自托管](https://azhuge233.com/tldream-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [Stable Diffusion &lpar;Web UI&rpar; Debian 自托管](https://azhuge233.com/stable-diffusion-web-ui-debian-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [Debian 11 安装 Nvidia &lpar;Tesla P40&rpar; 驱动](https://azhuge233.com/debian-11-%e5%ae%89%e8%a3%85-nvidia-tesla-p40-%e9%a9%b1%e5%8a%a8/)
 - [Tesla P40 Windows 下配置核显输出](https://azhuge233.com/tesla-p40-windows-%e4%b8%8b%e9%85%8d%e7%bd%ae%e6%a0%b8%e6%98%be%e8%be%93%e5%87%ba/)
-- [Tesla P40 硬件避坑](https://azhuge233.com/tesla-p40-%e7%a1%ac%e4%bb%b6%e9%81%bf%e5%9d%91/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
