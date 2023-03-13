@@ -25,11 +25,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox VE 显卡（Tesla P40）直通](https://azhuge233.com/proxmox-ve-%e6%98%be%e5%8d%a1%ef%bc%88tesla-p40%ef%bc%89%e7%9b%b4%e9%80%9a/)
 - [Proxmox VE &lpar;Tesla P40&rpar; vGPU 配置](https://azhuge233.com/proxmox-ve-tesla-p40-vgpu-%e9%85%8d%e7%bd%ae/)
 - [Text generation Web UI 自托管](https://azhuge233.com/text-generation-web-ui-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [tldream 自托管](https://azhuge233.com/tldream-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [Stable Diffusion &lpar;Web UI&rpar; Debian 自托管](https://azhuge233.com/stable-diffusion-web-ui-debian-%e8%87%aa%e6%89%98%e7%ae%a1/)
-- [Debian 11 安装 Nvidia &lpar;Tesla P40&rpar; 驱动](https://azhuge233.com/debian-11-%e5%ae%89%e8%a3%85-nvidia-tesla-p40-%e9%a9%b1%e5%8a%a8/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
