@@ -25,11 +25,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 网站迁移到本地](https://azhuge233.com/wordpress-%e7%bd%91%e7%ab%99%e8%bf%81%e7%a7%bb%e5%88%b0%e6%9c%ac%e5%9c%b0/)
 - [Debian 11 Lama Cleaner 自托管](https://azhuge233.com/debian-11-lama-cleaner-%e8%87%aa%e6%89%98%e7%ae%a1/)
 - [虚拟机 Python Illegal instruction 错误解决](https://azhuge233.com/%e8%99%9a%e6%8b%9f%e6%9c%ba-python-illegal-instruction-%e9%94%99%e8%af%af%e8%a7%a3%e5%86%b3/)
 - [Kandinsky 2.1 使用环境小坑](https://azhuge233.com/kandinsky-2-1-%e4%bd%bf%e7%94%a8%e7%8e%af%e5%a2%83%e5%b0%8f%e5%9d%91/)
 - [FauxPilot 自托管](https://azhuge233.com/fauxpilot-%e8%87%aa%e6%89%98%e7%ae%a1/)
-- [Tesla P40 远程桌面游玩赛博朋克 2077](https://azhuge233.com/tesla-p40-%e8%bf%9c%e7%a8%8b%e6%a1%8c%e9%9d%a2%e6%b8%b8%e7%8e%a9%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-2077/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
