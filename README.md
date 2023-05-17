@@ -25,11 +25,11 @@
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [QQ 机器人向频道发送消息](https://azhuge233.com/qq-%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%90%91%e9%a2%91%e9%81%93%e5%8f%91%e9%80%81%e6%b6%88%e6%81%af/)
 - [使用 referrer-spam-list 处理来源垃圾（Referrer spam）](https://azhuge233.com/%e4%bd%bf%e7%94%a8-referrer-spam-list-%e5%a4%84%e7%90%86%e6%9d%a5%e6%ba%90%e5%9e%83%e5%9c%be%ef%bc%88referrer-spam%ef%bc%89/)
 - [Ubuntu Desktop 22.04 安装 Nvidia 驱动](https://azhuge233.com/ubuntu-desktop-22-04-%e5%ae%89%e8%a3%85-nvidia-%e9%a9%b1%e5%8a%a8/)
 - [WordPress 网站迁移到本地](https://azhuge233.com/wordpress-%e7%bd%91%e7%ab%99%e8%bf%81%e7%a7%bb%e5%88%b0%e6%9c%ac%e5%9c%b0/)
 - [Debian 11 Lama Cleaner 自托管](https://azhuge233.com/debian-11-lama-cleaner-%e8%87%aa%e6%89%98%e7%ae%a1/)
-- [虚拟机 Python Illegal instruction 错误解决](https://azhuge233.com/%e8%99%9a%e6%8b%9f%e6%9c%ba-python-illegal-instruction-%e9%94%99%e8%af%af%e8%a7%a3%e5%86%b3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
