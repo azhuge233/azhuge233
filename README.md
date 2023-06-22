@@ -1,27 +1,3 @@
-## GitHub Statistics
-<details>
-  <summary>GitHub Stats</summary>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=azhuge233&theme=highcontrast&show_icons=true&count_private=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhuge233&layout=compact&langs_count=8&theme=highcontrast&show_icons=true">
-    </p>
-</details>
-
-<details>
-  <summary>GitHub Streaks</summary>
-    <p align="center">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=azhuge233&theme=neon-dark&border=FFFFFF">
-    </p>
-</details>
-
-<details>
-  <summary>GitHub Trophies</summary>
-    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=azhuge233&theme=onestar">
-    </p>
-</details>
-
-
 ## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
