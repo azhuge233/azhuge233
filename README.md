@@ -1,4 +1,4 @@
-## Latest Blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
+## Latest blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [XingangPan DragGAN 自托管](https://azhuge233.com/xingangpan-draggan-%e8%87%aa%e6%89%98%e7%ae%a1/)
