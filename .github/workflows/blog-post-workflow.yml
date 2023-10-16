@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://azhuge233.com/feed/"
+          user_agent: "blog-post-workflow: README gen"
