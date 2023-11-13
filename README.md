@@ -1,11 +1,11 @@
 ## Latest blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [摩尔线程 S80 PVE 下的使用记录](https://azhuge233.com/%e6%91%a9%e5%b0%94%e7%ba%bf%e7%a8%8b-s80-pve-%e4%b8%8b%e7%9a%84%e4%bd%bf%e7%94%a8%e8%ae%b0%e5%bd%95/)
 - [DockerSteamHeadless 浏览器 VNC 游戏串流](https://azhuge233.com/dockersteamheadless-%e6%b5%8f%e8%a7%88%e5%99%a8-vnc-%e6%b8%b8%e6%88%8f%e4%b8%b2%e6%b5%81/)
 - [Debian 开启板载网卡 Wake on LAN](https://azhuge233.com/debian-%e5%bc%80%e5%90%af%e6%9d%bf%e8%bd%bd%e7%bd%91%e5%8d%a1-wake-on-lan/)
 - [Sunshine &lpar;Moonlight&rpar; Headless Windows 内网游戏串流](https://azhuge233.com/sunshine-moonlight-headless-windows-%e5%86%85%e7%bd%91%e6%b8%b8%e6%88%8f%e4%b8%b2%e6%b5%81/)
 - [IddSampleDriver 创建 Windows 10/11 虚拟显示器](https://azhuge233.com/iddsampledriver-%e5%88%9b%e5%bb%ba-windows-10-11-%e8%99%9a%e6%8b%9f%e6%98%be%e7%a4%ba%e5%99%a8/)
-- [使用 Chronocat &lpar;RedProtocol&rpar; 发送 QQ 消息](https://azhuge233.com/%e4%bd%bf%e7%94%a8-chronocat-redprotocol-%e5%8f%91%e9%80%81-qq-%e6%b6%88%e6%81%af/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
