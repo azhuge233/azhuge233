@@ -1,11 +1,11 @@
 ## Latest blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [解决 GitHub Actions setup-dotnet 安装时的权限问题](https://azhuge233.com/%e8%a7%a3%e5%86%b3-github-actions-setup-dotnet-%e5%ae%89%e8%a3%85%e6%97%b6%e7%9a%84%e6%9d%83%e9%99%90%e9%97%ae%e9%a2%98/)
+- [GitHub Actions Self-Hosted Runner 的搭建和使用](https://azhuge233.com/github-actions-self-hosted-runner-%e7%9a%84%e6%90%ad%e5%bb%ba%e5%92%8c%e4%bd%bf%e7%94%a8/)
 - [解决 Windows 11 无法添加指纹解锁](https://azhuge233.com/%e8%a7%a3%e5%86%b3-windows-11-%e6%97%a0%e6%b3%95%e6%b7%bb%e5%8a%a0%e6%8c%87%e7%ba%b9%e8%a7%a3%e9%94%81/)
 - [OpenWrt 开启并测试 coredump](https://azhuge233.com/openwrt-%e5%bc%80%e5%90%af%e5%b9%b6%e6%b5%8b%e8%af%95-coredump/)
 - [Amnezia VPN 自托管服务安装](https://azhuge233.com/amnezia-vpn-%e8%87%aa%e6%89%98%e7%ae%a1%e6%9c%8d%e5%8a%a1%e5%ae%89%e8%a3%85/)
-- [macOS 启动时静默挂载共享磁盘](https://azhuge233.com/macos-%e5%90%af%e5%8a%a8%e6%97%b6%e9%9d%99%e9%bb%98%e6%8c%82%e8%bd%bd%e5%85%b1%e4%ba%ab%e7%a3%81%e7%9b%98/)
-- [NUC8i7BEH macOS Sonoma 黑苹果安装](https://azhuge233.com/nuc8i7beh-macos-sonoma-%e9%bb%91%e8%8b%b9%e6%9e%9c%e5%ae%89%e8%a3%85/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
