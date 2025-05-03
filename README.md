@@ -1,11 +1,11 @@
 ## Latest blog posts [![wordpress](https://img.shields.io/badge/Wordpress-222222?logo=wordpress&logoColor=white)](https://azhuge233.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Actions MSBuild 编译 VC++ 项目](https://azhuge233.com/github-actions-msbuild-%e7%bc%96%e8%af%91-vc-%e9%a1%b9%e7%9b%ae/)
 - [树莓派 4b Moonlight 串流](https://azhuge233.com/%e6%a0%91%e8%8e%93%e6%b4%be-4b-moonlight-%e4%b8%b2%e6%b5%81/)
 - [NapCat 的安装和使用](https://azhuge233.com/napcat-%e7%9a%84%e5%ae%89%e8%a3%85%e5%92%8c%e4%bd%bf%e7%94%a8/)
 - [Windows 11 无法同步时间的解决方法](https://azhuge233.com/windows-11-%e6%97%a0%e6%b3%95%e5%90%8c%e6%ad%a5%e6%97%b6%e9%97%b4%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/)
 - [Debian 下 DeepSeek R1 的本地部署与使用](https://azhuge233.com/debian-%e4%b8%8b-deepseek-r1-%e7%9a%84%e6%9c%ac%e5%9c%b0%e9%83%a8%e7%bd%b2%e4%b8%8e%e4%bd%bf%e7%94%a8/)
-- [自用 IPTV 源自托管方案](https://azhuge233.com/%e8%87%aa%e7%94%a8-iptv-%e6%ba%90%e8%87%aa%e6%89%98%e7%ae%a1%e6%96%b9%e6%a1%88/)
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
