@@ -9,7 +9,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## About Gaming
-![](https://steamcard.vercel.app/card/76561198175756063/badge,group)
+![Steam Card](https://card.yuy1n.io/card/76561198175756063/dark,en,badge,bg-game-8870,games,guides,reviews)
 
 <p align="left">
   <a href="https://steamcommunity.com/id/azhuge233" target="_blank"> Steam Profile</a>
